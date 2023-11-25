@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel011101
-- 👀 I’m interested in coding an own gameing launcher 
+- 👀 I’m interested in coding an own gaming launcher 
 - 🌱 I’m currently learning python, java,..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
