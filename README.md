@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @daniel011101
-- 👀 I’m interested in coding an own gaming launcher 
-- 🌱 I’m currently learning python, java,..
+- 👋 Hi, I’m @daniel
+- 👀 my goal is it to code my own private gaming launcher 
+- 🌱 I’m currently learning HTML, CSS but looking forward to learn more about C#, javascript and more 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
